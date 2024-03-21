@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.rbraithwaite.test",
+            "sha256_cert_fingerprints": [
+                "F9:28:D5:38:7A:4F:BC:70:90:FF:8C:81:73:0F:2E:54:EA:0B:15:7B:B3:0F:8E:87:7F:C1:B3:4D:B7:CC:6A:D8"
+            ]
+        }
+    }
+]
